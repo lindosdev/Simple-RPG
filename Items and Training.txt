@@ -1,0 +1,446 @@
+COPYRIGHT 2022, 2023 GARY J. TEIXEIRA Jr.
+See License.txt for Terms
+
+Items (each weapon holds 100 ammo)
+Items can be sold for 1/2 price
+
+Standard Items
+
+Backpack costs 20 gold
+
+Pistol does 1d4 damage
+Costs 10 gold
+Ammo costs 10 gold/10
+
+Shotgun does 2d6 damage
+Costs 20 gold
+Ammo costs 20 gold/10
+
+Machine gun does 5d4 damage (uses 10 ammo)
+Costs 40 gold
+Uses pistol ammo
+
+Rocket Launcher does 4d20 damage
+Costs 100 gold
+Ammo costs 40 gold/1
+
+Plasma gun does 5d10 damage
+Costs 200 gold
+Ammo costs 120 gold/1
+
+Railgun does 2d100 damage (uses 5 ammo)
+Costs 1000 gold
+Shares ammo with Plasma gun
+
+Dagger does 1d6 damage (can be dual-wielded)
+Costs 40g
+
+War Hammer costs does 2d12 damage
+Costs 140g
+
+Short Sword does 1d12 damage
+Costs 100g
+
+Great Sword does 2d20 damage
+Costs 200g
+
+Bow does 1d4 damage
+Costs 20g
+Uses arrows (20g) can carry 20
+
+Crossbow does 2d6 damage
+Costs 40g
+uses bolts (40g) can carry 40
+
+Spear does 2d12 damage
+can be used once per battle
+Costs 50g
+
+Shield (can be used with 1 dagger or short sword)
+adds +1 to armor bonus when used
+Costs 100g
+
+Light Armor gives +2 armor bonus
+Costs 100 gold
+
+Medium Armor gives +3 armor bonus
+Costs 150 gold
+
+Heavy Armor gives +5 armor bonus
+Costs 300 gold
+
+Legendary Armor gives +25 armor bonus
+Costs 2000 gold
+
+Light Health kits heal 10 damage
+Costs 20 gold
+Can carry 5
+
+Heavy health kits heal 50 damage
+Costs 100 gold
+Can carry 2
+
+Legendary Health kits heal 200 damage
+Costs 450 gold
+Can carry 1
+
+Super Items
+
+Backpack costs 40 gold
+
+Pistol does 2d4 damage
+Costs 20 gold
+Ammo costs 10 gold/10
+
+Shotgun does 4d6 damage (uses 2 ammo) 
+Costs 40 Gold
+Ammo costs 20 gold/10
+
+Machine gun does 10d4 damage (uses 10 ammo)
+Costs 80 gold
+Uses pistol ammo
+
+Rocket Launcher does 8d20 damage
+Costs 200 gold
+Ammo costs 40 gold/1
+
+Plasma gun does 10d10 damage
+Costs 400 gold
+Ammo costs 120 gold/1
+
+Railgun does 4d100 damage (uses 5 ammo)
+Costs 2000 gold
+Shares ammo with Plasma gun
+
+Dagger does 2d6 damage (can be dual-wielded)
+Costs 80g
+
+War Hammer costs does 4d12 damage
+Costs 280g
+
+Short Sword does 2d12 damage
+Costs 200g
+
+Great Sword does 4d20 damage
+Costs 400g
+
+Bow does 2d4 damage
+Costs 40g
+Uses arrows (20g) can carry 20
+
+Crossbow does 4d6 damage
+Costs 80g
+uses bolts (40g) can carry 40
+
+Spear does 4d12 damage
+can be used once per battle
+Costs 100g
+
+Shield (can be used with 1 dagger or short sword)
+adds +2 to armor bonus when used
+Costs 200g
+
+Light Armor gives +4 armor bonus
+Costs 200 gold
+
+Medium Armor gives +6 armor bonus
+Costs 300 gold
+
+Heavy Armor gives +10 armor bonus
+Costs 600 gold
+
+Legendary Armor gives +50 armor bonus
+Costs 4000 gold
+
+Light Health kits heal 20 damage
+Costs 40 gold
+Can carry 5
+
+Heavy health kits heal 100 damage
+Costs 200 gold
+Can carry 2
+
+Legendary Health kits heal 400 damage
+Costs 900 gold
+Can carry 1
+
+Epic Items
+
+Backpack costs 160 gold
+
+Pistol does 4d8 damage
+Costs 80 gold
+Ammo costs 10 gold/10
+
+Shotgun does 8d6 damage (uses 4 ammo)
+Costs 160 gold
+Ammo costs 20 gold/10
+
+Machine gun does 10d8 damage (uses 10 ammo)
+Costs 1600 gold
+Uses pistol ammo
+
+Rocket Launcher does 4d100 damage
+Costs 4000 gold
+Ammo costs 40 gold/1
+
+Plasma gun does 10d20 damage
+Costs 4000 gold
+Ammo costs 120 gold/1
+
+Railgun does 8d100 damage (uses 5 ammo)
+Costs 4000 gold
+Shares ammo with Plasma gun
+
+Dagger does 4d12 damage (can be dual-wielded)
+Costs 160g
+
+War Hammer costs does 5d20 damage
+Costs 800g
+
+Short Sword does 10d20 damage
+Costs 400g
+
+Great Sword does 12d20 damage
+Costs 800g
+
+Bow does 4d6 damage
+Costs 80g
+Uses arrows (20g) can carry 20
+
+Crossbow does 5d8 damage
+Costs 1600g
+uses bolts (40g) can carry 40
+
+Spear does 5d20 damage
+can be used once per battle
+Costs 200g
+
+Shield (can be used with 1 dagger or short sword)
+adds +5 to armor bonus when used
+Costs 400g
+
+Light Armor gives +10 armor bonus
+Costs 400 gold
+
+Medium Armor gives +15 armor bonus
+Costs 600 gold
+
+Heavy Armor gives +25 armor bonus
+Costs 1200 gold
+
+Legendary Armor gives +125 armor bonus
+Costs 8000 gold
+
+Light Health kits heal 50 damage
+Costs 80 gold
+Can carry 5
+
+Heavy health kits heal 225 damage
+Costs 500 gold
+Can carry 2
+
+Legendary Health kits heal 1000 damage
+Costs 1800 gold
+Can carry 1
+
+Plus Items
+
+Backpack costs 640 gold
+
+Pistol does 8d8 damage
+Costs 320 gold
+Ammo costs 10 gold/10
+
+Shotgun does 16d6 damage (uses 4 ammo)
+Costs 640 gold
+Ammo costs 20 gold/10
+
+Machine gun does 8d8x20 damage (uses 10 ammo)
+Costs 6400 gold
+Uses pistol ammo
+
+Rocket Launcher does 8d100 damage
+Costs 16000 gold
+Ammo costs 40 gold/1
+
+Plasma gun does 20d20 damage
+Costs 16000 gold
+Ammo costs 120 gold/1
+
+Railgun does 16d100 damage (uses 5 ammo)
+Costs 16000 gold
+Shares ammo with Plasma gun
+
+Dagger does 8d12 damage (can be dual-wielded)
+Costs 640g
+
+War Hammer costs does 10d20 damage
+Costs 3200g
+
+Short Sword does 20d20 damage
+Costs 1600g
+
+Great Sword does 24d20 damage
+Costs 1600g
+
+Bow does 8d6 damage
+Costs 320g
+Uses arrows (20g) can carry 20
+
+Crossbow does 10d8 damage
+Costs 6400g
+uses bolts (40g) can carry 40
+
+Spear does 10d20 damage
+can be used once per battle
+Costs 800g
+
+Shield (can be used with 1 dagger or short sword)
+adds +10 to armor bonus when used
+Costs 1600g
+
+Light Armor gives +20 armor bonus
+Costs 1600 gold
+
+Medium Armor gives +30 armor bonus
+Costs 2400 gold
+
+Heavy Armor gives +50 armor bonus
+Costs 4800 gold
+
+Legendary Armor gives +250 armor bonus
+Costs 32000 gold
+
+Light Health kits heal 100 damage
+Costs 320 gold
+Can carry 5
+
+Heavy health kits heal 450 damage
+Costs 1000 gold
+Can carry 2
+
+Legendary Health kits heal 2000 damage
+Costs 7200 gold
+Can carry 1
+
+Spells:
+
+To learn a spell, Ashara must study for 1 week. The group must stay at the inn during this time. She must also buy the proper scroll to study.
+
+Spell effects increase by 2 every level
+
+Standard Spells
+
+Lightning Bolt (default)
+1d10
+
+Heal (level 5)
+costs 100 gold
+Heals 1d5
+
+Ligtning storm
+costs 150 gold
+1d10 x 3 enemies or 3d10 x1 enemy
+
+Fire Beam
+costs 150 gold
+1d10 x 2 rounds
+
+Fire Storm
+costs 200 gold
+1d10 x 3 enemies or 3d10 x1 enemy x 2 rounds
+
+The Eye
+costs 1000 gold
+Stuns an enemy for 3 rounds
+
+Super Spells:
+
+Lightning Bolt
+200 gold
+2d10
+
+Heal
+200 gold
+Heal 2d5
+
+Lightning Storm
+300 gold
+2d10 x 3 enemies or 6d10 x 1 enemy
+
+Fire Beam
+300 gold
+2d10 x 2 rounds
+
+Fire Storm
+400 gold
+2d10 x 3 enemies or 6d10 x 1 ememy. Both for 2 rounds
+
+The Eye
+200 gold
+Stuns one enemy for 6 rounds
+
+Epic Spells:
+
+Lightning Bolt
+4000 gold
+6d10
+
+Heal
+4000 gold
+Heal 4d10
+
+Lightning Storm
+6000 gold
+5d10 x 3 enemies or 18d10 x 1 enemy
+
+Fire Beam
+6000 gold
+5d10 x 2 rounds
+
+Fire Storm
+8000 gold
+5d10 x 3 enemies or 6d20 x 1 ememy. Both for 2 rounds
+
+The Eye
+10000 gold
+Stuns one enemy for 15 rounds
+
+Plus Spells:
+
+Lightning Bolt
+16000 gold
+12d10
+
+Heal
+18000 gold
+Heal 8d10
+
+Lightning Storm
+24000 gold
+10d10 x 3 enemies or 36d10 x 1 enemy
+
+Fire Beam
+24000 gold
+10d10 x 2 rounds
+
+Fire Storm
+32000 gold
+10d10 x 3 enemies or 12d20 x 1 ememy. Both for 2 rounds
+
+The Eye
+40000 gold
+Stuns one enemy for 30 rounds
+
+Training (2000g each, can be stacked)
+
+Melee Weapons (Sorcerers and wizards)
+Ranged Weapons (Thieves, sorcerers and wizards)
+Magic (5000g) (Thieves and soldiers)
+Defense (adds +1 armor bonus, all)
+
+Advanced Training (adds +1 attack bonus)
+Melee 4000g
+Ranged 4000g
+Magic 7000g

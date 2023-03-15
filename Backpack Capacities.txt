@@ -1,0 +1,53 @@
+COPYRIGHT 2022, 2023 GARY J. TEIXEIRA Jr.
+See License.txt for Terms
+
+Backpack Capacities
+
+Without backpack, per character:
+100 Bullets
+100 Shotgun Shells
+20 Rockets
+100 Cells
+20 Arrows
+40 Bolts
+5 Light health kits
+2 Heavy Health Kits
+1 Legendary Health Kit
+
+Regular Backpack
+Increases to:
+
+200 Bullets
+200 Shotgun Shells
+40 Rockets
+200 Cells
+40 Arrows
+80 Bolts
+10 Light health kits
+4 Heavy Health Kits
+2 Legendary Health Kit
+
+Super Backpack:
+
+400 Bullets
+400 Shotgun Shells
+80 Rockets
+400 Cells
+80 Arrows
+160 Bolts
+20 Light health kits
+8 Heavy Health Kits
+4 Legendary Health Kits
+
+Epic Backpack:
+
+1600 Bullets
+1600 Shotgun Shells
+320 Rockets
+1600 Cells
+3200 Arrows
+640 Bolts
+80 Light health kits
+32 Heavy Health Kits
+16 Legendary Health Kits
+

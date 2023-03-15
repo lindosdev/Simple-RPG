@@ -1,0 +1,30 @@
+COPYRIGHT 2022, 2023 GARY J. TEIXEIRA Jr.
+See License.txt for Terms
+
+Classes:
+
+Soldier:
+  Starts out with a regular pistol and 50 ammo.
+  Armor bonus: 2
+  Attack Bonus: 2
+
+Thief:
+  Starts out with daggers. Can attack one enemy twice or two enemies once each. Thieves are very good at finding gold. All gold you find (including that looted from enemies) is doubled as long as you have a thief in your party.
+  Thieves have an armor penalty of 2.
+  Attack bonus: 2
+
+Barbarian:
+  Starts out with a great sword and a warhammer. They have an HP bonus of 4.
+  Attack bonus: 4
+  Armor Bonus: 4
+
+Sorcerer:
+  Starts with Lightning Bolt 1d10.
+  Attack Bonus: none
+  Armor Bonus: none
+
+Wizard:
+  Wizards are an NPC class who can be hired for 2000 gold.
+  Starts with Heal 2d20
+  Attack Bonus: none
+  Armor Bonus: none

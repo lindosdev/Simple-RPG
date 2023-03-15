@@ -1,0 +1,226 @@
+COPYRIGHT 2022, 2023 GARY J. TEIXEIRA Jr.
+See License.txt for Terms
+Regular Enemies:
+
+Pistol Zombie
+5XP
+1d4 HP
+1d4 damage
+Gives 5 bullets and 5 gold
+
+Shotgun Zombie
+10XP
+1d6 HP 
+2d6 damage
+Gives shotgun with 4 shells and 10 gold
+
+Imp
+15XP
+1d8 HP
+1d10 damage
+Gives 10 gold
+
+Demon
+15XP
+1d12 HP
+1d10 damage
+Gives 10 gold
+
+Ghost
+15XP
+1d10 HP
+1d10 damage
+Gives 10 gold
+
+Super Enemies
+
+Pistol Zombie
+10XP
+2d4 HP
+2d4 damage
+Gives 5 bullets and 10 gold
+
+Shotgun Zombie
+20XP
+2d6 HP 
+4d6 damage
+Gives shotgun with 4 shells and 20 gold
+
+Imp
+30XP
+2d8 HP
+2d10 damage
+Gives 20 gold
+
+Demon
+30XP
+2d12 HP
+2d10 damage
+Gives 20 gold
+
+Ghost
+30XP
+2d10 HP
+2d10 damage
+Gives 20 gold
+
+Fire Demon
+40XP
+3d12 HP
+2d12 damage
+Gives 30 gold
+
+Headless Horseman
+120XP
+8d20 HP
+6d12 damage
+Gives 100 gold
+
+Epic Enemies
+
+Barbarian Zombie
+100XP
+4d20 HP
+4d20 damage
+Gives Epic Warhammer or Great Sword and 100 gold
+
+Mutant Lion
+150XP
+6d20 HP
+6d20 damage
+Gives 150 gold
+
+Mutant Wolf
+200XP
+8d20 HP
+8d20 damage
+Gives 200 gold
+
+Pistol Zombie
+20XP
+4d4 HP
+4d8 damage
+Gives 5 bullets and 20 gold
+
+Shotgun Zombie
+40XP
+4d6 HP 
+8d6 damage
+Gives shotgun with 4 shells and 40 gold
+
+Imp
+60XP
+4d8 HP
+4d10 damage
+Gives 40 gold
+
+Demon
+60XP
+4d12 HP
+4d10 damage
+Gives 40 gold
+
+Ghost
+60XP
+4d10 HP
+4d10 damage
+Gives 40 gold
+
+Fire Demon
+80XP
+6d12 HP
+4d12 damage
+Gives 60 gold
+
+Headless Horseman
+240XP
+16d20 HP
+12d12 damage
+Gives 200 gold
+
+Steam Demon
+800XP
+44d20 HP
+16d20 damage
+Gives 800 gold
+
+Spider Demon
+800XP
+36d20 HP
+8d100 damage
+Gives 600 gold
+
+Plus Enemies
+
+Barbarian Zombie
+400XP
+8d20 HP
+8d20 damage
+Gives Plus Warhammer or Great Sword and 400 gold
+
+Mutant Lion
+600XP
+8d20 HP
+8d20 damage
+Gives 600 gold
+
+Mutant Wolf
+800XP
+16d10 HP
+16d10 damage
+Gives 800 gold
+
+Pistol Zombie
+80XP
+10d4 HP
+10d4 damage
+Gives 10 bullets and 80 gold
+
+Shotgun Zombie
+160XP
+10d6 HP 
+10d6 damage
+Gives shotgun with 10 shells and 160 gold
+
+Imp
+240XP
+10d8 HP
+10d10 damage
+Gives 160 gold
+
+Demon
+240XP
+10d12 HP
+10d10 damage
+Gives 160 gold
+
+Ghost
+240XP
+10d10 HP
+10d10 damage
+Gives 160 gold
+
+Fire Demon
+320XP
+10d12 HP
+10d12 damage
+Gives 240 gold
+
+Headless Horseman
+1000XP
+10d100 HP
+10d100 damage
+Gives 1000 gold
+
+Steam Demon
+4000XP
+44d100 HP
+20d20 damage
+Gives 4000 gold
+
+Spider Demon
+4000XP
+36d100 HP
+10d100 damage
+Gives 600 gold
+

@@ -1,0 +1,837 @@
+COPYRIGHT 2022, 2023 GARY J. TEIXEIRA Jr.
+See License.txt for Terms
+
+  Two soldiers have been teleported to another world in an experiment gone wrong. 
+In an inn, they hear of a monster who guards great treasures. To enter the creature’s lair, 
+200 magic gems that combine to make a key must be found.
+These gems can only be acquired in dungeons of great peril. Will our heroes survive their quest?
+
+Group:
+
+To buy:
+
+XP:
+Gold:
+Gems:
+Level:
+
+BOB
+Class: Soldier
+Level: 1
+HP:6
+Armor Bonus: +2
+Attack Bonus: +2
+
+R. Pistol 1d4 50 ammo
+
+JOE
+Class: Soldier
+Level: 1
+HP: 6
+Armor Bonus: +2
+Attack Bonus: +2
+
+R. Pistol 1d4 50 ammo
+
+ASHARA
+Class: Sorceress
+Level: 1
+HP: 4
+Armor Bonus: 0
+Attack Bonus: 0
+
+R. Lightning Bolt 1d10
+
+VEN (Joins at level 10)
+Class: Thief
+Level: 10
+HP: 20
+Armor Bonus: -2
+Attack Bonus: +2
+
+Daggers 2d6 x2
+
+OORLOG (Joins at level 15)
+Class: Barbarian
+Level: 15
+HP: 34
+Armor Bonus: +6
+Attack Bonus: +6
+
+Warhammer 2d12
+Greatsword 2d20
+
+MERLIN (Joins at level 20)
+Class: Wizard
+Level: 20
+HP: 60
+Armor Bonus: +6
+Attack Bonus: +6
+
+Heal 2d20
+Can revive once per dungeon
+
+Dungeons:
+
+(1)
+2 small med kits
+1 large med kit
+
+2 pistol zombies
+2 HP
+3 HP
+
+(2)
+2 small med kits
+1 large med kit
+
+4 pistol zombies
+2 HP
+4 HP
+1 HP
+2 HP
+
+2 shotgun zombies
+5 HP
+3 HP
+
+2 imps
+6 HP
+7 HP
+
+(3)
+2 small med kits
+
+3 pistol zombies
+2 HP
+3 HP
+4 HP
+
+3 shotgun zombies
+1 HP
+6 HP
+1 HP
+
+2 imps
+8 HP
+8 HP
+
+(3)
+3 pistol zombies
+2 HP
+3 HP
+4 HP
+
+3 shotgun zombies
+1 HP
+6 HP
+1 HP
+
+2 imps
+8 HP
+8 HP
+
+(4)
+4 shotgun zombies
+1 HP
+3 HP
+2 HP
+4 HP
+
+4 imps
+6 HP
+7 HP
+6 HP
+8 HP
+
+1 demon
+9 HP
+
+(5)
+4 pistol zombies
+2 HP
+1 HP
+4 HP
+2 HP
+
+3 shotgun zombies
+6 HP
+3 HP
+1 HP
+2 HP
+
+5 imps
+8 HP
+1 HP
+3 HP
+4 HP
+2 HP
+
+2 demons
+11 HP
+11 HP
+
+(6)
+Medium armor is earned if treasure roll is 15+
+
+6 pistol zombies
+2 HP
+2 HP
+1 HP
+1 HP
+2 HP
+2 HP
+
+3 shotgun zombies
+4 HP
+1 HP
+5 HP
+
+9 imps
+2 HP
+1 HP
+8 HP
+2 HP
+8 HP
+6 HP
+3 HP
+8 HP
+1 HP
+
+2 demons
+3 HP
+7 HP
+
+(7)
+13 pistol zombies
+group 1
+1 HP
+2 HP
+3 HP
+4 HP
+1 HP
+
+group 2
+3 HP
+1 HP
+3 HP
+3 HP
+2 HP
+
+3 HP
+4 HP
+1 HP
+
+6 shotgun zombies
+6 HP
+6 HP
+3 HP
+3 HP
+2 HP
+3 HP
+
+4 imps
+8 HP
+9 HP
+8 HP
+6 HP
+
+6 demons
+11 HP
+3 HP
+4 HP
+3 HP
+6 HP
+5 HP
+
+(8)
+Heavy armor is earned if treasure roll is 15+
+
+8 pistol zombies
+group 1
+1 HP
+1 HP
+3 HP
+3 HP
+
+group 2
+4 HP
+2 HP
+2 HP
+4 HP
+
+9 shotgun zombies
+4 HP
+2 HP
+6 HP
+1 HP
+3 HP
+1 HP
+6 HP
+4 HP
+4 HP
+
+1 imp
+5 HP
+
+4 demons
+9 HP
+12 HP
+7 HP
+7 HP
+
+(9)
+1 small med kit
+
+20 pistol zombies
+group 1
+2 HP
+2 HP
+3 HP
+4 HP
+1 HP
+
+group 2
+2 HP
+1 HP
+4 HP
+4 HP
+4 HP
+
+group 3
+4 HP
+3 HP
+4 HP
+1 HP
+4 HP
+
+group 4
+2 HP
+3 HP
+1 HP
+3 HP
+2 HP
+
+10 shotgun zombies
+5 HP
+6 HP
+3 HP
+5 HP
+6 HP
+6 HP
+1 HP
+3 HP
+6 HP
+5 HP
+
+(10)
+1 large med kit
+
+Heavy armor is earned if treasure roll is 15+
+
+8 pistol zombies (group)
+1 HP
+1 HP
+1 HP
+4 HP
+2 HP
+4 HP
+4 HP
+2 HP
+
+10 shotgun zombies
+1 HP
+1 HP
+6 HP
+4 HP
+4 HP
+1 HP
+3 HP
+5 HP
+1 HP
+5 HP
+6 HP
+
+10 imps
+2 HP
+8 HP
+2 HP
+6 HP
+6 HP
+6 HP
+3 HP
+4 HP
+7 HP
+4 HP
+
+4 demons
+5 HP
+5 HP
+4 HP
+7 HP
+
+(11)
+19 zombies
+3 HP
+1 HP
+2 HP
+1 HP
+4 HP
+2 HP
+3 HP
+3 HP
+1 HP
+1 HP
+3 HP
+3 HP
+1 HP
+1 HP
+1 HP
+4 HP
+3 HP
+3 HP
+2 HP
+
+5 shotgun zombies
+2 HP
+2 HP
+3 HP
+1 HP
+4 HP
+
+7 imps
+1 HP
+7 HP
+6 HP
+8 HP
+4 HP
+5 HP
+3 HP
+
+11 demons
+12 HP
+3 HP
+6 HP
+10 HP
+6 HP
+3 HP
+3 HP
+11 HP
+7 HP
+11 HP
+1 HP
+
+(12)
+Medium armor +100g if d20 is 15+
+6 S. Pistol Zombies
+4 HP
+7 HP
+8 HP
+4 HP
+6 HP
+8 HP
+
+1 S. shotgun zombie
+7 HP
+
+7 s. imps
+6 HP
+8 HP
+
+3 s. demons
+13 HP
+12 HP
+14 HP
+
+(13)
+6 s. shotgun zombies
+6 HP
+10 HP
+7 HP
+4 HP
+6 HP
+5 HP
+
+10 s. imps
+3 HP
+13 HP
+4 HP
+6 HP
+9 HP
+10 HP
+10 HP
+6 HP
+6 HP
+5 HP
+
+4 s. demons
+11 HP
+15 HP
+12 HP
+13 HP
+
+1 s. Ghost
+13 HP
+
+5 s. Fire Demons
+14 HP
+5 HP
+17 HP
+25 HP
+15 HP
+
+(14)
+4 s. pistol zombies
+6 HP
+7 HP
+3 HP
+4 HP
+
+13 s. shotgun zombies
+10 HP
+4 HP
+9 HP
+8 HP
+7 HP
+9 HP
+4 HP
+6 HP
+10 HP
+8 HP
+4 HP
+9 HP
+3 HP
+
+11 s. Fire Demons
+7 HP
+16 HP
+24 HP
+13 HP
+18 HP
+27 HP
+21 HP
+14 HP
+14 HP
+14 HP
+14 HP
+
+1 s. Headless Horseman
+85 HP
+
+(15)
+2 s. headless horsemen
+75 HP
+92 HP
+
+(16)
+16 s. shotgun zombies
+6 HP
+7 HP
+12 HP
+2 HP
+4 HP
+11 HP
+9 HP
+6 HP
+6 HP
+11 HP
+7 HP
+3 HP
+10 HP
+12 HP
+8 HP
+8 HP
+
+16 s. fire demons
+14 HP
+7 HP
+23 HP
+20 HP
+16 HP
+13 HP
+14 HP
+13 HP
+10 HP
+8 HP
+11 HP
+13 HP
+14 HP
+19 HP
+
+20 s. ghosts
+15 HP
+12 HP
+16 HP
+18 HP
+14 HP
+9 HP
+10 HP
+18 HP
+4 HP
+8 HP
+8 HP
+9 HP
+11 HP
+14 HP
+9 HP
+13 HP
+6 HP
+6 HP
+20 HP
+12 HP
+
+(17)
+6 e. pistol zombies
+11 HP
+10 HP
+6 HP
+8 HP
+13 HP
+9 HP
+
+10 e. shotgun zombies
+9 HP
+12 HP
+20 HP
+15 HP
+12 HP
+11 HP
+16 HP
+9 HP 
+21 HP
+16 HP
+
+10 e. fire demons
+40 HP
+46 HP
+43 HP
+34 HP
+43 HP
+49 HP
+58 HP
+39 HP
+42 HP 
+26 HP
+
+17 e. ghosts
+26 HP
+18 HP
+21 HP
+25 HP
+25 HP
+14 HP
+24 HP
+22 HP
+28 HP
+19 HP
+22 HP
+19 HP
+29 HP
+23 HP
+15 HP
+20 HP
+20 HP
+
+19 e. demons
+41 HP
+30 HP
+28 HP
+28 HP
+26 HP
+28 HP
+37 HP
+26 HP
+32 HP
+13 HP
+21 HP
+24 HP
+41 HP
+23 HP
+25 HP
+34 HP
+21 HP
+25 HP
+33 HP
+
+(18)
+3 e. pistol zombies
+4 HP
+9 HP
+8 HP
+
+2 e. shotgun zombies
+14 HP
+17 HP
+
+3 e. fire demons
+40 HP
+29 HP
+50 HP
+
+5 e. imps
+23 HP
+10 HP
+18 HP
+14 HP
+16 HP
+
+8 e. ghosts
+16 HP
+19 HP
+32 HP
+21 HP
+24 HP
+25 HP
+12 HP
+13 HP
+
+(19)
+17 e. pistol zombies
+7 HP
+9 HP
+11 HP
+12 HP
+13 HP
+7 HP
+5 HP
+8 HP
+11 HP
+9 HP
+7 HP
+8 HP
+9 HP
+9 HP
+10 HP
+13 HP
+11 HP
+
+14 e. shotgun zombies
+19 HP
+12 HP
+7 HP
+12 HP
+14 HP
+14 HP
+12 HP
+16 HP
+10 HP
+14 HP
+12 HP
+11 HP
+20 HP
+
+10 e. imps
+11 HP
+26 HP
+29 HP
+16 HP
+21 HP
+29 HP
+20 HP
+27 HP
+24 HP
+22 HP
+
+8 e. demons
+21 HP
+29 HP
+19 HP
+28 HP
+22 HP
+28 HP
+26 HP
+34 HP
+
+6 e. fire demons
+32 HP
+43 HP
+27 HP
+49 HP
+41 HP
+33 HP
+
+3 e. headless horsemen
+82 HP
+56 HP
+71 HP
+
+(20) BOSS FIGHT: Treasure is x4 plus 10d100 gold
+3 e. headless horsemen
+179 HP 
+173 HP
+121 HP
+
+(21)
+4 e. fire demons
+33 HP
+27 HP
+35 HP
+39 HP
+
+2 e. demons
+21 HP
+32 HP
+
+4 e. mutant wolves
+60 HP
+79 HP
+75 HP
+108 HP
+
+(22)
+6 p. pistol zombies
+24 HP
+24 HP
+24 HP
+25 HP
+29 HP
+25 HP
+
+3 p. shotgun zombies
+38 HP
+31 HP
+39 HP
+
+2 e. Mutant Lions
+49 HP
+70 HP
+
+7 e. mutant wolves
+84 HP
+89 HP
+101 HP
+
+(23)
+14 p. pistol zombies
+22 HP
+21 HP
+22 HP
+24 HP
+25 HP
+26 HP
+23 HP
+21 HP
+25 HP
+22 HP
+26 HP
+24 HP
+24 HP
+18 HP
+
+7 p. shotgun zombies
+35 HP
+34 HP
+34 HP
+34 HP
+40 HP
+39 HP
+42 HP
+
+2 p. imps
+35 HP
+50 HP
+
+9 p. demons
+56 HP
+80 HP
+46 HP
